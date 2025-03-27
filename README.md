@@ -65,6 +65,6 @@ Check logs for detailed error messages using console.log.
 
 ## Contact
 
-Developed by Manjulatha Siddantham. Feel free to reach out via GitHub or email:manjulathasiddantham55@gmail.com for any inquiries.
+Developed by Manjulatha Siddantham. Feel free to reach out via GitHub or email: manjulathasiddantham55@gmail.com for any inquiries.
 
 Happy Task Managing! 🎉
